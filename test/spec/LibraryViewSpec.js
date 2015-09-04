@@ -6,7 +6,7 @@ describe("LibraryView", function() {
       {
         artist: 'Fakey McFakerson',
         title: 'Never Gonna Mock You Up',
-        url: 'example/url'
+        url: 'https://s3-us-west-1.amazonaws.com/hr-mytunes/data/03+Age+Ain%27t+Nothing+But+A+Number.mp3'
       },
       {
         artist: 'BittyBacon',
